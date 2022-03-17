@@ -1,0 +1,1 @@
+web: gunicorn Screenshot.wsgi --log-file -
